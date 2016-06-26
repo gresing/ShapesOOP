@@ -1,0 +1,1 @@
+package Shapes;public abstract class AbstractShape implements Shape {    public abstract double getPerimeter();    public abstract double getArea();    public abstract String getShapeName();}
